@@ -1,0 +1,1001 @@
+client_id,anciennete_mois,type_contrat,montant_mensuel,methode_paiement,reclamations,churn
+SEN-1000,12,Mensuel,27200.0,Prélèvement,2,Oui
+SEN-1001,2,Mensuel,10900.0,Prélèvement,4,Oui
+SEN-1002,13,Mensuel,8700.0,Carte Bdf,3,Oui
+SEN-1003,8,1 an,37600.0,Carte Bdf,3,Oui
+SEN-1004,19,1 an,40800.0,Carte Bdf,1,Non
+SEN-1005,1,Mensuel,37900.0,Prélèvement,2,Oui
+SEN-1006,5,Mensuel,41000.0,Prélèvement,2,Oui
+SEN-1007,9,Mensuel,27100.0,Wave,2,Oui
+SEN-1008,17,Mensuel,37500.0,Orange Money,4,Oui
+SEN-1009,16,1 an,20400.0,Wave,0,Non
+SEN-1010,11,Mensuel,31700.0,Prélèvement,4,Oui
+SEN-1011,40,1 an,44600.0,Carte Bdf,2,Non
+SEN-1012,6,Mensuel,14000.0,Prélèvement,3,Oui
+SEN-1013,3,Mensuel,20600.0,Orange Money,5,Oui
+SEN-1014,17,Mensuel,24200.0,Wave,2,Oui
+SEN-1015,5,Mensuel,10500.0,Wave,3,Oui
+SEN-1016,27,Mensuel,8200.0,Carte Bdf,0,Non
+SEN-1017,14,Mensuel,38200.0,Wave,4,Oui
+SEN-1018,11,Mensuel,44100.0,Wave,3,Oui
+SEN-1019,68,Mensuel,21200.0,Prélèvement,0,Non
+SEN-1020,2,Mensuel,8500.0,Wave,3,Oui
+SEN-1021,27,2 ans,7600.0,Wave,1,Non
+SEN-1022,23,2 ans,40700.0,Wave,1,Non
+SEN-1023,3,Mensuel,23600.0,Carte Bdf,3,Oui
+SEN-1024,27,2 ans,17800.0,Carte Bdf,2,Non
+SEN-1025,23,2 ans,24100.0,Prélèvement,0,Non
+SEN-1026,19,1 an,17700.0,Wave,0,Non
+SEN-1027,11,Mensuel,24600.0,Carte Bdf,4,Oui
+SEN-1028,9,Mensuel,39400.0,Carte Bdf,3,Oui
+SEN-1029,5,Mensuel,28700.0,Prélèvement,5,Oui
+SEN-1030,41,1 an,32800.0,Orange Money,1,Non
+SEN-1031,56,1 an,19600.0,Wave,1,Non
+SEN-1032,5,1 an,34500.0,Carte Bdf,5,Oui
+SEN-1033,39,2 ans,31700.0,Prélèvement,2,Non
+SEN-1034,62,Mensuel,9800.0,Prélèvement,0,Non
+SEN-1035,51,2 ans,27900.0,Prélèvement,1,Non
+SEN-1036,13,1 an,15300.0,Carte Bdf,5,Oui
+SEN-1037,10,Mensuel,37200.0,Wave,2,Oui
+SEN-1038,8,1 an,22000.0,Orange Money,2,Oui
+SEN-1039,51,2 ans,44800.0,Wave,0,Non
+SEN-1040,67,2 ans,8700.0,Prélèvement,0,Non
+SEN-1041,55,1 an,36200.0,Prélèvement,2,Non
+SEN-1042,12,1 an,31900.0,Orange Money,1,Non
+SEN-1043,6,Mensuel,35700.0,Wave,5,Oui
+SEN-1044,41,1 an,17300.0,Prélèvement,1,Non
+SEN-1045,32,2 ans,24700.0,Prélèvement,0,Non
+SEN-1046,1,Mensuel,36900.0,Wave,2,Oui
+SEN-1047,17,Mensuel,14300.0,Prélèvement,4,Oui
+SEN-1048,33,1 an,14000.0,Wave,2,Non
+SEN-1049,15,Mensuel,27000.0,Prélèvement,3,Oui
+SEN-1050,2,Mensuel,25900.0,Wave,4,Oui
+SEN-1051,14,Mensuel,16300.0,Orange Money,4,Oui
+SEN-1052,43,1 an,16900.0,Prélèvement,0,Non
+SEN-1053,8,Mensuel,16100.0,Orange Money,3,Oui
+SEN-1054,64,1 an,35900.0,Prélèvement,1,Non
+SEN-1055,27,Mensuel,31100.0,Prélèvement,2,Non
+SEN-1056,6,Mensuel,38300.0,Carte Bdf,2,Oui
+SEN-1057,49,1 an,44000.0,Wave,2,Non
+SEN-1058,63,1 an,24000.0,Orange Money,1,Non
+SEN-1059,8,1 an,7700.0,Orange Money,2,Oui
+SEN-1060,25,1 an,6900.0,Orange Money,0,Non
+SEN-1061,47,1 an,16800.0,Wave,1,Non
+SEN-1062,15,Mensuel,42300.0,Carte Bdf,3,Oui
+SEN-1063,34,2 ans,25900.0,Orange Money,2,Non
+SEN-1064,7,Mensuel,15900.0,Wave,5,Oui
+SEN-1065,4,Mensuel,21000.0,Prélèvement,5,Oui
+SEN-1066,6,Mensuel,28900.0,Orange Money,5,Oui
+SEN-1067,1,Mensuel,31100.0,Orange Money,5,Oui
+SEN-1068,32,1 an,11200.0,Carte Bdf,2,Non
+SEN-1069,1,Mensuel,44100.0,Orange Money,5,Oui
+SEN-1070,38,1 an,26800.0,Orange Money,1,Non
+SEN-1071,68,2 ans,10400.0,Prélèvement,2,Non
+SEN-1072,10,Mensuel,40700.0,Wave,4,Oui
+SEN-1073,5,Mensuel,8000.0,Wave,3,Oui
+SEN-1074,22,2 ans,41300.0,Carte Bdf,2,Non
+SEN-1075,14,1 an,44900.0,Prélèvement,1,Non
+SEN-1076,6,Mensuel,33000.0,Wave,4,Oui
+SEN-1077,34,1 an,35800.0,Prélèvement,1,Non
+SEN-1078,15,Mensuel,18500.0,Wave,3,Oui
+SEN-1079,15,Mensuel,42700.0,Prélèvement,1,Non
+SEN-1080,13,1 an,26200.0,Carte Bdf,2,Oui
+SEN-1081,66,1 an,34300.0,Orange Money,0,Non
+SEN-1082,17,1 an,42000.0,Carte Bdf,2,Non
+SEN-1083,46,2 ans,44000.0,Wave,0,Non
+SEN-1084,33,1 an,38300.0,Carte Bdf,0,Non
+SEN-1085,4,Mensuel,17100.0,Orange Money,4,Oui
+SEN-1086,12,Mensuel,43700.0,Carte Bdf,2,Oui
+SEN-1087,13,Mensuel,30100.0,Wave,4,Oui
+SEN-1088,2,Mensuel,42200.0,Wave,2,Oui
+SEN-1089,48,2 ans,32000.0,Carte Bdf,2,Non
+SEN-1090,63,1 an,17300.0,Orange Money,2,Non
+SEN-1091,53,2 ans,19800.0,Carte Bdf,1,Non
+SEN-1092,5,Mensuel,27000.0,Orange Money,3,Oui
+SEN-1093,58,1 an,36600.0,Prélèvement,0,Non
+SEN-1094,10,Mensuel,17700.0,Orange Money,2,Oui
+SEN-1095,53,1 an,28200.0,Prélèvement,2,Non
+SEN-1096,6,Mensuel,18800.0,Carte Bdf,3,Oui
+SEN-1097,29,2 ans,37600.0,Orange Money,2,Non
+SEN-1098,56,2 ans,23700.0,Prélèvement,1,Non
+SEN-1099,15,1 an,8100.0,Prélèvement,4,Oui
+SEN-1100,14,Mensuel,11600.0,Prélèvement,4,Oui
+SEN-1101,35,1 an,7400.0,Wave,1,Non
+SEN-1102,12,Mensuel,25000.0,Carte Bdf,5,Oui
+SEN-1103,41,1 an,9300.0,Prélèvement,1,Non
+SEN-1104,8,Mensuel,9600.0,Orange Money,2,Oui
+SEN-1105,1,1 an,42600.0,Prélèvement,3,Oui
+SEN-1106,15,Mensuel,39900.0,Wave,2,Oui
+SEN-1107,8,Mensuel,23100.0,Carte Bdf,2,Oui
+SEN-1108,18,2 ans,44400.0,Wave,2,Non
+SEN-1109,12,Mensuel,5000.0,Wave,4,Oui
+SEN-1110,12,Mensuel,29600.0,Wave,3,Oui
+SEN-1111,4,1 an,29700.0,Orange Money,2,Oui
+SEN-1112,16,Mensuel,23300.0,Carte Bdf,4,Oui
+SEN-1113,4,Mensuel,20900.0,Carte Bdf,4,Oui
+SEN-1114,46,2 ans,23200.0,Orange Money,1,Non
+SEN-1115,13,1 an,21600.0,Carte Bdf,1,Non
+SEN-1116,38,2 ans,34200.0,Wave,2,Non
+SEN-1117,10,Mensuel,10400.0,Carte Bdf,3,Oui
+SEN-1118,17,Mensuel,12900.0,Orange Money,2,Oui
+SEN-1119,29,2 ans,12200.0,Wave,2,Non
+SEN-1120,14,Mensuel,15500.0,Orange Money,5,Oui
+SEN-1121,31,1 an,26000.0,Prélèvement,2,Non
+SEN-1122,9,Mensuel,9400.0,Wave,2,Oui
+SEN-1123,21,1 an,39700.0,Wave,2,Non
+SEN-1124,36,Mensuel,16900.0,Carte Bdf,1,Non
+SEN-1125,14,Mensuel,11500.0,Wave,5,Oui
+SEN-1126,5,1 an,32000.0,Orange Money,4,Oui
+SEN-1127,65,1 an,6500.0,Carte Bdf,2,Non
+SEN-1128,4,Mensuel,29800.0,Prélèvement,3,Oui
+SEN-1129,1,Mensuel,32900.0,Orange Money,3,Oui
+SEN-1130,8,1 an,13600.0,Prélèvement,5,Oui
+SEN-1131,15,Mensuel,6700.0,Prélèvement,2,Oui
+SEN-1132,12,1 an,19500.0,Prélèvement,0,Non
+SEN-1133,9,Mensuel,8900.0,Wave,2,Oui
+SEN-1134,9,Mensuel,9700.0,Orange Money,5,Oui
+SEN-1135,65,1 an,15200.0,Orange Money,0,Non
+SEN-1136,57,1 an,16800.0,Wave,1,Non
+SEN-1137,63,Mensuel,26200.0,Carte Bdf,0,Non
+SEN-1138,14,1 an,32100.0,Prélèvement,2,Non
+SEN-1139,46,Mensuel,28700.0,Orange Money,2,Non
+SEN-1140,52,2 ans,10900.0,Wave,2,Non
+SEN-1141,17,2 ans,11900.0,Prélèvement,2,Non
+SEN-1142,2,Mensuel,40200.0,Carte Bdf,5,Oui
+SEN-1143,24,2 ans,27300.0,Carte Bdf,1,Non
+SEN-1144,11,Mensuel,39800.0,Prélèvement,2,Oui
+SEN-1145,12,Mensuel,19900.0,Carte Bdf,5,Oui
+SEN-1146,7,Mensuel,29600.0,Orange Money,2,Oui
+SEN-1147,32,1 an,25900.0,Orange Money,2,Non
+SEN-1148,1,Mensuel,17800.0,Orange Money,5,Oui
+SEN-1149,15,Mensuel,23800.0,Carte Bdf,2,Non
+SEN-1150,11,Mensuel,25100.0,Orange Money,5,Oui
+SEN-1151,26,Mensuel,13000.0,Wave,1,Non
+SEN-1152,7,Mensuel,17600.0,Orange Money,5,Oui
+SEN-1153,56,2 ans,36700.0,Orange Money,1,Non
+SEN-1154,9,Mensuel,41600.0,Carte Bdf,3,Oui
+SEN-1155,23,1 an,19400.0,Orange Money,1,Non
+SEN-1156,43,1 an,17300.0,Prélèvement,1,Non
+SEN-1157,17,Mensuel,12800.0,Wave,2,Oui
+SEN-1158,39,1 an,32100.0,Carte Bdf,0,Non
+SEN-1159,1,Mensuel,17900.0,Wave,3,Oui
+SEN-1160,13,Mensuel,44500.0,Prélèvement,3,Oui
+SEN-1161,17,Mensuel,18000.0,Carte Bdf,2,Oui
+SEN-1162,13,1 an,20800.0,Carte Bdf,5,Oui
+SEN-1163,16,Mensuel,29100.0,Orange Money,5,Oui
+SEN-1164,8,Mensuel,37100.0,Wave,5,Oui
+SEN-1165,1,Mensuel,23800.0,Prélèvement,4,Oui
+SEN-1166,17,Mensuel,21900.0,Prélèvement,2,Non
+SEN-1167,15,Mensuel,44800.0,Carte Bdf,4,Oui
+SEN-1168,40,1 an,5400.0,Orange Money,2,Non
+SEN-1169,54,1 an,40800.0,Carte Bdf,1,Non
+SEN-1170,13,1 an,11000.0,Carte Bdf,1,Non
+SEN-1171,71,1 an,36400.0,Carte Bdf,0,Non
+SEN-1172,34,1 an,29700.0,Carte Bdf,2,Non
+SEN-1173,8,Mensuel,18700.0,Prélèvement,5,Oui
+SEN-1174,42,2 ans,40000.0,Prélèvement,0,Non
+SEN-1175,62,Mensuel,5500.0,Carte Bdf,0,Non
+SEN-1176,16,1 an,14100.0,Carte Bdf,1,Non
+SEN-1177,30,2 ans,27700.0,Orange Money,1,Non
+SEN-1178,14,Mensuel,19100.0,Carte Bdf,4,Oui
+SEN-1179,2,1 an,29400.0,Prélèvement,3,Oui
+SEN-1180,36,1 an,6000.0,Wave,1,Non
+SEN-1181,7,Mensuel,9700.0,Prélèvement,2,Oui
+SEN-1182,22,Mensuel,10100.0,Orange Money,2,Non
+SEN-1183,1,Mensuel,12600.0,Prélèvement,5,Oui
+SEN-1184,3,Mensuel,23400.0,Wave,5,Oui
+SEN-1185,67,1 an,35100.0,Carte Bdf,0,Non
+SEN-1186,26,2 ans,41200.0,Wave,2,Non
+SEN-1187,20,2 ans,38400.0,Carte Bdf,2,Non
+SEN-1188,3,Mensuel,12900.0,Carte Bdf,2,Oui
+SEN-1189,1,Mensuel,22600.0,Prélèvement,4,Oui
+SEN-1190,15,Mensuel,13000.0,Prélèvement,3,Oui
+SEN-1191,8,Mensuel,15600.0,Prélèvement,4,Oui
+SEN-1192,2,Mensuel,25100.0,Orange Money,3,Oui
+SEN-1193,20,1 an,7700.0,Prélèvement,0,Non
+SEN-1194,39,1 an,13700.0,Orange Money,1,Non
+SEN-1195,57,Mensuel,42400.0,Prélèvement,0,Non
+SEN-1196,62,1 an,23600.0,Carte Bdf,1,Non
+SEN-1197,18,2 ans,22800.0,Orange Money,1,Non
+SEN-1198,4,Mensuel,5600.0,Wave,2,Oui
+SEN-1199,27,2 ans,14900.0,Orange Money,2,Non
+SEN-1200,71,2 ans,39700.0,Orange Money,2,Non
+SEN-1201,16,Mensuel,11600.0,Wave,2,Oui
+SEN-1202,7,Mensuel,21600.0,Orange Money,3,Oui
+SEN-1203,10,Mensuel,5600.0,Carte Bdf,5,Oui
+SEN-1204,7,Mensuel,24100.0,Prélèvement,5,Oui
+SEN-1205,1,1 an,5800.0,Wave,5,Oui
+SEN-1206,28,2 ans,37800.0,Prélèvement,1,Non
+SEN-1207,4,Mensuel,38000.0,Carte Bdf,4,Oui
+SEN-1208,50,1 an,36500.0,Wave,2,Non
+SEN-1209,1,Mensuel,16300.0,Prélèvement,4,Oui
+SEN-1210,63,2 ans,38500.0,Prélèvement,2,Non
+SEN-1211,40,2 ans,26700.0,Carte Bdf,1,Non
+SEN-1212,11,1 an,20000.0,Prélèvement,2,Oui
+SEN-1213,10,Mensuel,30000.0,Carte Bdf,2,Oui
+SEN-1214,2,Mensuel,5500.0,Orange Money,3,Oui
+SEN-1215,49,1 an,10700.0,Carte Bdf,2,Non
+SEN-1216,12,Mensuel,34700.0,Orange Money,5,Oui
+SEN-1217,61,2 ans,14800.0,Wave,2,Non
+SEN-1218,5,Mensuel,28900.0,Prélèvement,4,Oui
+SEN-1219,6,1 an,20400.0,Carte Bdf,2,Oui
+SEN-1220,46,2 ans,39200.0,Carte Bdf,1,Non
+SEN-1221,2,Mensuel,43100.0,Prélèvement,2,Oui
+SEN-1222,12,Mensuel,40300.0,Prélèvement,3,Oui
+SEN-1223,39,2 ans,15800.0,Wave,0,Non
+SEN-1224,12,Mensuel,12800.0,Wave,2,Oui
+SEN-1225,25,2 ans,24000.0,Carte Bdf,1,Non
+SEN-1226,10,Mensuel,5300.0,Wave,5,Oui
+SEN-1227,48,Mensuel,6000.0,Orange Money,2,Non
+SEN-1228,17,Mensuel,27100.0,Wave,3,Oui
+SEN-1229,17,Mensuel,25800.0,Wave,2,Oui
+SEN-1230,66,1 an,44800.0,Carte Bdf,2,Non
+SEN-1231,9,1 an,13100.0,Orange Money,2,Oui
+SEN-1232,38,2 ans,15300.0,Wave,1,Non
+SEN-1233,2,Mensuel,9500.0,Orange Money,2,Oui
+SEN-1234,65,2 ans,41700.0,Orange Money,0,Non
+SEN-1235,49,2 ans,36100.0,Orange Money,0,Non
+SEN-1236,26,2 ans,37900.0,Prélèvement,0,Non
+SEN-1237,11,Mensuel,41100.0,Prélèvement,4,Oui
+SEN-1238,21,1 an,26000.0,Prélèvement,0,Non
+SEN-1239,34,1 an,23000.0,Prélèvement,0,Non
+SEN-1240,69,2 ans,18200.0,Carte Bdf,1,Non
+SEN-1241,67,1 an,28600.0,Wave,0,Non
+SEN-1242,5,1 an,23200.0,Prélèvement,4,Oui
+SEN-1243,11,Mensuel,23100.0,Carte Bdf,2,Oui
+SEN-1244,12,2 ans,42500.0,Wave,1,Non
+SEN-1245,24,2 ans,44400.0,Prélèvement,2,Non
+SEN-1246,32,2 ans,36900.0,Wave,0,Non
+SEN-1247,37,2 ans,35300.0,Prélèvement,0,Non
+SEN-1248,61,2 ans,32200.0,Carte Bdf,0,Non
+SEN-1249,56,2 ans,11600.0,Orange Money,0,Non
+SEN-1250,32,2 ans,7400.0,Orange Money,2,Non
+SEN-1251,5,Mensuel,32600.0,Wave,5,Oui
+SEN-1252,6,Mensuel,34200.0,Carte Bdf,4,Oui
+SEN-1253,12,Mensuel,6900.0,Orange Money,3,Oui
+SEN-1254,56,1 an,42100.0,Prélèvement,0,Non
+SEN-1255,43,1 an,8600.0,Orange Money,0,Non
+SEN-1256,8,Mensuel,16400.0,Wave,3,Oui
+SEN-1257,2,Mensuel,31900.0,Wave,3,Oui
+SEN-1258,12,1 an,11800.0,Carte Bdf,3,Oui
+SEN-1259,60,2 ans,7200.0,Wave,0,Non
+SEN-1260,7,1 an,18200.0,Orange Money,3,Oui
+SEN-1261,22,1 an,35600.0,Orange Money,0,Non
+SEN-1262,32,Mensuel,21500.0,Orange Money,0,Non
+SEN-1263,63,Mensuel,31100.0,Orange Money,2,Non
+SEN-1264,66,1 an,28200.0,Carte Bdf,1,Non
+SEN-1265,2,1 an,5900.0,Prélèvement,4,Oui
+SEN-1266,11,Mensuel,44500.0,Prélèvement,5,Oui
+SEN-1267,15,2 ans,6700.0,Carte Bdf,0,Non
+SEN-1268,4,Mensuel,43700.0,Wave,5,Oui
+SEN-1269,63,1 an,27000.0,Prélèvement,1,Non
+SEN-1270,59,Mensuel,43500.0,Wave,2,Non
+SEN-1271,71,1 an,9600.0,Prélèvement,0,Non
+SEN-1272,4,Mensuel,24600.0,Wave,2,Oui
+SEN-1273,51,2 ans,11800.0,Carte Bdf,0,Non
+SEN-1274,7,Mensuel,7000.0,Orange Money,4,Oui
+SEN-1275,52,1 an,29700.0,Wave,2,Non
+SEN-1276,40,1 an,13300.0,Orange Money,0,Non
+SEN-1277,2,1 an,28500.0,Wave,5,Oui
+SEN-1278,40,2 ans,9500.0,Wave,1,Non
+SEN-1279,5,Mensuel,18300.0,Wave,2,Oui
+SEN-1280,1,Mensuel,36300.0,Wave,5,Oui
+SEN-1281,4,Mensuel,22500.0,Wave,5,Oui
+SEN-1282,53,1 an,30100.0,Orange Money,1,Non
+SEN-1283,24,1 an,30900.0,Wave,0,Non
+SEN-1284,60,2 ans,38800.0,Orange Money,2,Non
+SEN-1285,17,1 an,18000.0,Carte Bdf,3,Oui
+SEN-1286,28,1 an,32500.0,Prélèvement,1,Non
+SEN-1287,67,2 ans,43500.0,Wave,0,Non
+SEN-1288,20,2 ans,34200.0,Prélèvement,2,Non
+SEN-1289,9,Mensuel,24600.0,Orange Money,2,Oui
+SEN-1290,2,Mensuel,30200.0,Carte Bdf,3,Oui
+SEN-1291,9,Mensuel,34600.0,Carte Bdf,5,Oui
+SEN-1292,9,Mensuel,29500.0,Carte Bdf,2,Oui
+SEN-1293,59,1 an,5700.0,Prélèvement,2,Non
+SEN-1294,40,2 ans,12800.0,Orange Money,1,Non
+SEN-1295,44,1 an,37400.0,Wave,1,Non
+SEN-1296,11,Mensuel,15900.0,Wave,3,Oui
+SEN-1297,61,2 ans,34300.0,Orange Money,0,Non
+SEN-1298,69,1 an,19900.0,Prélèvement,0,Non
+SEN-1299,71,2 ans,25900.0,Wave,1,Non
+SEN-1300,3,Mensuel,7700.0,Orange Money,3,Oui
+SEN-1301,32,2 ans,12200.0,Wave,0,Non
+SEN-1302,39,2 ans,43300.0,Carte Bdf,2,Non
+SEN-1303,22,Mensuel,40600.0,Wave,2,Non
+SEN-1304,12,Mensuel,31100.0,Prélèvement,2,Oui
+SEN-1305,6,Mensuel,23400.0,Orange Money,3,Oui
+SEN-1306,19,Mensuel,32000.0,Prélèvement,1,Non
+SEN-1307,12,Mensuel,29700.0,Orange Money,3,Oui
+SEN-1308,5,Mensuel,27700.0,Carte Bdf,4,Oui
+SEN-1309,12,Mensuel,7400.0,Orange Money,3,Oui
+SEN-1310,17,Mensuel,30300.0,Wave,5,Oui
+SEN-1311,17,Mensuel,35800.0,Wave,2,Oui
+SEN-1312,10,Mensuel,44800.0,Carte Bdf,4,Oui
+SEN-1313,17,Mensuel,5400.0,Orange Money,2,Oui
+SEN-1314,34,1 an,34200.0,Carte Bdf,2,Non
+SEN-1315,35,2 ans,27900.0,Wave,0,Non
+SEN-1316,56,Mensuel,22400.0,Prélèvement,1,Non
+SEN-1317,30,2 ans,10100.0,Carte Bdf,0,Non
+SEN-1318,17,Mensuel,21400.0,Prélèvement,4,Oui
+SEN-1319,43,Mensuel,19200.0,Prélèvement,2,Non
+SEN-1320,55,1 an,17100.0,Orange Money,1,Non
+SEN-1321,12,1 an,34200.0,Carte Bdf,2,Non
+SEN-1322,34,2 ans,33000.0,Prélèvement,0,Non
+SEN-1323,12,Mensuel,28600.0,Prélèvement,2,Oui
+SEN-1324,15,Mensuel,42500.0,Orange Money,5,Oui
+SEN-1325,9,Mensuel,19000.0,Orange Money,5,Oui
+SEN-1326,19,2 ans,14800.0,Wave,0,Non
+SEN-1327,68,1 an,31200.0,Prélèvement,2,Non
+SEN-1328,10,Mensuel,13000.0,Wave,4,Oui
+SEN-1329,54,2 ans,17600.0,Prélèvement,1,Non
+SEN-1330,7,1 an,14000.0,Wave,5,Oui
+SEN-1331,56,2 ans,7800.0,Orange Money,1,Non
+SEN-1332,7,Mensuel,38100.0,Carte Bdf,2,Oui
+SEN-1333,14,Mensuel,15200.0,Orange Money,3,Oui
+SEN-1334,46,2 ans,23900.0,Wave,2,Non
+SEN-1335,35,Mensuel,6700.0,Wave,0,Non
+SEN-1336,9,Mensuel,33000.0,Carte Bdf,3,Oui
+SEN-1337,16,Mensuel,18200.0,Prélèvement,5,Oui
+SEN-1338,8,Mensuel,34800.0,Wave,3,Oui
+SEN-1339,7,Mensuel,21500.0,Wave,5,Oui
+SEN-1340,51,2 ans,12800.0,Wave,2,Non
+SEN-1341,69,1 an,25500.0,Carte Bdf,1,Non
+SEN-1342,42,1 an,10200.0,Orange Money,2,Non
+SEN-1343,57,2 ans,22600.0,Wave,1,Non
+SEN-1344,47,2 ans,17700.0,Carte Bdf,0,Non
+SEN-1345,22,1 an,41500.0,Wave,2,Non
+SEN-1346,12,Mensuel,7400.0,Prélèvement,3,Oui
+SEN-1347,13,Mensuel,32800.0,Carte Bdf,4,Oui
+SEN-1348,30,Mensuel,12300.0,Wave,1,Non
+SEN-1349,3,Mensuel,17800.0,Carte Bdf,3,Oui
+SEN-1350,62,1 an,21600.0,Wave,1,Non
+SEN-1351,39,2 ans,41300.0,Orange Money,0,Non
+SEN-1352,8,Mensuel,14700.0,Wave,4,Oui
+SEN-1353,54,2 ans,8700.0,Carte Bdf,0,Non
+SEN-1354,69,2 ans,17700.0,Prélèvement,1,Non
+SEN-1355,16,2 ans,9200.0,Prélèvement,0,Non
+SEN-1356,16,Mensuel,10100.0,Prélèvement,1,Non
+SEN-1357,41,1 an,28000.0,Wave,1,Non
+SEN-1358,65,1 an,7400.0,Orange Money,1,Non
+SEN-1359,43,1 an,6200.0,Wave,2,Non
+SEN-1360,19,2 ans,33600.0,Prélèvement,2,Non
+SEN-1361,13,Mensuel,19500.0,Carte Bdf,4,Oui
+SEN-1362,49,1 an,10000.0,Prélèvement,0,Non
+SEN-1363,58,1 an,15100.0,Carte Bdf,0,Non
+SEN-1364,43,2 ans,30700.0,Orange Money,2,Non
+SEN-1365,59,1 an,16000.0,Carte Bdf,1,Non
+SEN-1366,10,1 an,24800.0,Wave,5,Oui
+SEN-1367,28,1 an,9900.0,Wave,1,Non
+SEN-1368,42,Mensuel,28500.0,Wave,0,Non
+SEN-1369,13,Mensuel,17600.0,Carte Bdf,3,Oui
+SEN-1370,51,Mensuel,30100.0,Wave,1,Non
+SEN-1371,7,Mensuel,37300.0,Wave,4,Oui
+SEN-1372,20,1 an,29500.0,Wave,0,Non
+SEN-1373,13,2 ans,16800.0,Orange Money,0,Non
+SEN-1374,26,Mensuel,15200.0,Carte Bdf,0,Non
+SEN-1375,16,1 an,18100.0,Carte Bdf,2,Oui
+SEN-1376,14,Mensuel,11600.0,Prélèvement,2,Non
+SEN-1377,60,Mensuel,12200.0,Carte Bdf,2,Non
+SEN-1378,10,Mensuel,36600.0,Orange Money,5,Oui
+SEN-1379,7,Mensuel,20400.0,Carte Bdf,3,Oui
+SEN-1380,25,1 an,22400.0,Orange Money,0,Non
+SEN-1381,52,Mensuel,28800.0,Orange Money,2,Non
+SEN-1382,17,Mensuel,28600.0,Carte Bdf,2,Oui
+SEN-1383,36,1 an,7700.0,Prélèvement,0,Non
+SEN-1384,69,1 an,38300.0,Wave,2,Non
+SEN-1385,14,1 an,12100.0,Wave,3,Oui
+SEN-1386,4,Mensuel,33900.0,Carte Bdf,4,Oui
+SEN-1387,21,Mensuel,35900.0,Carte Bdf,1,Non
+SEN-1388,16,1 an,33600.0,Orange Money,2,Oui
+SEN-1389,1,Mensuel,28200.0,Carte Bdf,5,Oui
+SEN-1390,23,Mensuel,5600.0,Orange Money,2,Non
+SEN-1391,38,2 ans,19400.0,Prélèvement,1,Non
+SEN-1392,9,Mensuel,29200.0,Carte Bdf,3,Oui
+SEN-1393,13,Mensuel,20500.0,Wave,1,Non
+SEN-1394,17,Mensuel,39500.0,Wave,4,Oui
+SEN-1395,24,2 ans,17400.0,Carte Bdf,1,Non
+SEN-1396,64,2 ans,16700.0,Orange Money,0,Non
+SEN-1397,43,Mensuel,15600.0,Wave,1,Non
+SEN-1398,5,Mensuel,18300.0,Orange Money,5,Oui
+SEN-1399,11,Mensuel,27300.0,Carte Bdf,2,Oui
+SEN-1400,43,1 an,33300.0,Carte Bdf,1,Non
+SEN-1401,43,1 an,31500.0,Wave,1,Non
+SEN-1402,14,Mensuel,37300.0,Carte Bdf,4,Oui
+SEN-1403,11,1 an,40400.0,Prélèvement,4,Oui
+SEN-1404,13,Mensuel,37600.0,Prélèvement,5,Oui
+SEN-1405,2,Mensuel,5800.0,Wave,5,Oui
+SEN-1406,7,Mensuel,34400.0,Prélèvement,4,Oui
+SEN-1407,28,1 an,13300.0,Orange Money,1,Non
+SEN-1408,51,2 ans,10300.0,Wave,2,Non
+SEN-1409,13,Mensuel,30500.0,Wave,5,Oui
+SEN-1410,14,Mensuel,17800.0,Orange Money,5,Oui
+SEN-1411,10,Mensuel,7300.0,Prélèvement,3,Oui
+SEN-1412,11,Mensuel,10500.0,Prélèvement,4,Oui
+SEN-1413,51,1 an,5000.0,Prélèvement,2,Non
+SEN-1414,9,Mensuel,41100.0,Wave,4,Oui
+SEN-1415,17,Mensuel,6000.0,Wave,5,Oui
+SEN-1416,3,Mensuel,13400.0,Prélèvement,3,Oui
+SEN-1417,6,Mensuel,21700.0,Carte Bdf,3,Oui
+SEN-1418,5,Mensuel,19300.0,Prélèvement,2,Oui
+SEN-1419,61,1 an,41500.0,Orange Money,2,Non
+SEN-1420,33,2 ans,6600.0,Wave,1,Non
+SEN-1421,17,Mensuel,25500.0,Orange Money,2,Oui
+SEN-1422,41,Mensuel,32200.0,Orange Money,0,Non
+SEN-1423,3,Mensuel,42300.0,Wave,4,Oui
+SEN-1424,32,1 an,29800.0,Carte Bdf,1,Non
+SEN-1425,55,2 ans,37200.0,Prélèvement,2,Non
+SEN-1426,43,1 an,8300.0,Orange Money,1,Non
+SEN-1427,62,2 ans,20400.0,Wave,0,Non
+SEN-1428,3,Mensuel,20000.0,Orange Money,5,Oui
+SEN-1429,60,Mensuel,40500.0,Prélèvement,2,Non
+SEN-1430,67,2 ans,11100.0,Carte Bdf,1,Non
+SEN-1431,32,Mensuel,11100.0,Carte Bdf,1,Non
+SEN-1432,46,2 ans,18100.0,Carte Bdf,1,Non
+SEN-1433,69,1 an,7200.0,Wave,2,Non
+SEN-1434,43,1 an,12300.0,Wave,1,Non
+SEN-1435,41,2 ans,43600.0,Carte Bdf,0,Non
+SEN-1436,66,2 ans,22100.0,Prélèvement,1,Non
+SEN-1437,50,2 ans,30300.0,Prélèvement,1,Non
+SEN-1438,11,Mensuel,34000.0,Wave,2,Oui
+SEN-1439,9,Mensuel,19700.0,Carte Bdf,2,Oui
+SEN-1440,52,1 an,10900.0,Prélèvement,2,Non
+SEN-1441,9,1 an,13300.0,Prélèvement,3,Oui
+SEN-1442,3,Mensuel,17500.0,Prélèvement,2,Oui
+SEN-1443,2,Mensuel,30400.0,Wave,3,Oui
+SEN-1444,12,Mensuel,20900.0,Carte Bdf,4,Oui
+SEN-1445,10,1 an,5300.0,Orange Money,2,Oui
+SEN-1446,9,Mensuel,25900.0,Carte Bdf,5,Oui
+SEN-1447,57,Mensuel,41900.0,Carte Bdf,1,Non
+SEN-1448,8,Mensuel,37500.0,Wave,4,Oui
+SEN-1449,5,Mensuel,38000.0,Prélèvement,4,Oui
+SEN-1450,11,Mensuel,36800.0,Prélèvement,2,Oui
+SEN-1451,2,Mensuel,17900.0,Wave,4,Oui
+SEN-1452,55,1 an,35600.0,Wave,1,Non
+SEN-1453,43,2 ans,10700.0,Wave,2,Non
+SEN-1454,22,2 ans,31300.0,Wave,1,Non
+SEN-1455,5,1 an,30700.0,Wave,3,Oui
+SEN-1456,16,Mensuel,6000.0,Orange Money,3,Oui
+SEN-1457,6,Mensuel,36500.0,Carte Bdf,5,Oui
+SEN-1458,36,2 ans,41100.0,Carte Bdf,1,Non
+SEN-1459,33,1 an,15700.0,Carte Bdf,2,Non
+SEN-1460,39,2 ans,37500.0,Prélèvement,0,Non
+SEN-1461,40,2 ans,8300.0,Orange Money,2,Non
+SEN-1462,13,Mensuel,29000.0,Carte Bdf,5,Oui
+SEN-1463,17,Mensuel,24400.0,Prélèvement,2,Oui
+SEN-1464,13,1 an,26800.0,Orange Money,2,Non
+SEN-1465,40,1 an,42000.0,Orange Money,1,Non
+SEN-1466,32,2 ans,39900.0,Prélèvement,1,Non
+SEN-1467,26,Mensuel,36400.0,Orange Money,2,Non
+SEN-1468,2,1 an,15900.0,Prélèvement,3,Oui
+SEN-1469,38,1 an,41500.0,Carte Bdf,1,Non
+SEN-1470,61,1 an,8900.0,Prélèvement,2,Non
+SEN-1471,42,1 an,39100.0,Orange Money,1,Non
+SEN-1472,1,Mensuel,18100.0,Carte Bdf,3,Oui
+SEN-1473,62,2 ans,7200.0,Carte Bdf,0,Non
+SEN-1474,34,2 ans,31800.0,Wave,1,Non
+SEN-1475,8,Mensuel,14300.0,Wave,4,Oui
+SEN-1476,1,1 an,14700.0,Orange Money,2,Oui
+SEN-1477,16,Mensuel,17200.0,Prélèvement,5,Oui
+SEN-1478,9,Mensuel,7500.0,Prélèvement,5,Oui
+SEN-1479,13,Mensuel,12100.0,Orange Money,3,Oui
+SEN-1480,11,Mensuel,5200.0,Carte Bdf,2,Oui
+SEN-1481,44,1 an,22800.0,Orange Money,2,Non
+SEN-1482,67,1 an,8400.0,Orange Money,2,Non
+SEN-1483,14,2 ans,32300.0,Carte Bdf,1,Non
+SEN-1484,6,Mensuel,14400.0,Prélèvement,3,Oui
+SEN-1485,30,2 ans,42700.0,Orange Money,2,Non
+SEN-1486,34,2 ans,39900.0,Prélèvement,2,Non
+SEN-1487,40,2 ans,16600.0,Orange Money,0,Non
+SEN-1488,41,1 an,36300.0,Carte Bdf,0,Non
+SEN-1489,50,Mensuel,37100.0,Carte Bdf,0,Non
+SEN-1490,10,1 an,44500.0,Wave,3,Oui
+SEN-1491,11,Mensuel,28900.0,Carte Bdf,4,Oui
+SEN-1492,7,Mensuel,8300.0,Wave,5,Oui
+SEN-1493,48,2 ans,30900.0,Orange Money,2,Non
+SEN-1494,58,1 an,30000.0,Prélèvement,0,Non
+SEN-1495,19,2 ans,30500.0,Carte Bdf,0,Non
+SEN-1496,53,2 ans,17300.0,Carte Bdf,0,Non
+SEN-1497,69,1 an,39400.0,Carte Bdf,0,Non
+SEN-1498,7,Mensuel,43400.0,Orange Money,5,Oui
+SEN-1499,2,Mensuel,13700.0,Wave,4,Oui
+SEN-1500,13,1 an,8500.0,Orange Money,5,Oui
+SEN-1501,55,2 ans,12800.0,Prélèvement,2,Non
+SEN-1502,16,Mensuel,37800.0,Orange Money,1,Non
+SEN-1503,9,Mensuel,32100.0,Prélèvement,2,Oui
+SEN-1504,17,Mensuel,30400.0,Carte Bdf,2,Oui
+SEN-1505,8,Mensuel,21100.0,Prélèvement,2,Oui
+SEN-1506,2,1 an,28100.0,Prélèvement,3,Oui
+SEN-1507,46,2 ans,17300.0,Wave,0,Non
+SEN-1508,3,Mensuel,24100.0,Prélèvement,4,Oui
+SEN-1509,16,Mensuel,36700.0,Prélèvement,4,Oui
+SEN-1510,45,1 an,44200.0,Orange Money,2,Non
+SEN-1511,7,Mensuel,42300.0,Carte Bdf,4,Oui
+SEN-1512,36,2 ans,42400.0,Orange Money,2,Non
+SEN-1513,21,2 ans,21100.0,Orange Money,2,Non
+SEN-1514,32,2 ans,23800.0,Carte Bdf,0,Non
+SEN-1515,15,Mensuel,33200.0,Carte Bdf,2,Oui
+SEN-1516,50,1 an,41900.0,Prélèvement,2,Non
+SEN-1517,38,1 an,10700.0,Prélèvement,2,Non
+SEN-1518,4,Mensuel,17200.0,Wave,3,Oui
+SEN-1519,13,2 ans,10600.0,Orange Money,0,Non
+SEN-1520,52,2 ans,29500.0,Carte Bdf,2,Non
+SEN-1521,12,Mensuel,17300.0,Prélèvement,3,Oui
+SEN-1522,17,Mensuel,18000.0,Carte Bdf,4,Oui
+SEN-1523,20,2 ans,7800.0,Prélèvement,2,Non
+SEN-1524,63,2 ans,19000.0,Wave,2,Non
+SEN-1525,14,Mensuel,39500.0,Wave,5,Oui
+SEN-1526,15,Mensuel,14300.0,Carte Bdf,4,Oui
+SEN-1527,53,1 an,32800.0,Wave,1,Non
+SEN-1528,4,Mensuel,30200.0,Carte Bdf,4,Oui
+SEN-1529,69,1 an,39500.0,Prélèvement,2,Non
+SEN-1530,12,1 an,10300.0,Orange Money,5,Oui
+SEN-1531,23,2 ans,44100.0,Wave,2,Non
+SEN-1532,11,Mensuel,28300.0,Prélèvement,4,Oui
+SEN-1533,25,2 ans,44800.0,Orange Money,0,Non
+SEN-1534,6,Mensuel,41500.0,Orange Money,3,Oui
+SEN-1535,68,1 an,13900.0,Orange Money,1,Non
+SEN-1536,45,2 ans,7200.0,Prélèvement,2,Non
+SEN-1537,64,1 an,15200.0,Prélèvement,2,Non
+SEN-1538,2,Mensuel,26100.0,Carte Bdf,5,Oui
+SEN-1539,31,1 an,11900.0,Orange Money,1,Non
+SEN-1540,22,1 an,11700.0,Orange Money,0,Non
+SEN-1541,27,1 an,23500.0,Orange Money,2,Non
+SEN-1542,62,1 an,6300.0,Carte Bdf,0,Non
+SEN-1543,42,1 an,9900.0,Orange Money,0,Non
+SEN-1544,66,Mensuel,21600.0,Prélèvement,0,Non
+SEN-1545,9,Mensuel,7500.0,Orange Money,2,Oui
+SEN-1546,7,Mensuel,20900.0,Wave,2,Oui
+SEN-1547,15,Mensuel,24000.0,Prélèvement,4,Oui
+SEN-1548,11,1 an,23100.0,Carte Bdf,5,Oui
+SEN-1549,69,1 an,39800.0,Orange Money,0,Non
+SEN-1550,15,2 ans,26200.0,Wave,0,Non
+SEN-1551,58,1 an,23700.0,Carte Bdf,1,Non
+SEN-1552,11,Mensuel,21400.0,Carte Bdf,5,Oui
+SEN-1553,31,1 an,37700.0,Prélèvement,1,Non
+SEN-1554,17,Mensuel,40800.0,Carte Bdf,2,Oui
+SEN-1555,12,Mensuel,39100.0,Carte Bdf,3,Oui
+SEN-1556,65,1 an,31900.0,Carte Bdf,0,Non
+SEN-1557,46,2 ans,10500.0,Carte Bdf,1,Non
+SEN-1558,37,1 an,16100.0,Orange Money,2,Non
+SEN-1559,48,1 an,6800.0,Orange Money,0,Non
+SEN-1560,49,1 an,42200.0,Orange Money,2,Non
+SEN-1561,3,Mensuel,31400.0,Orange Money,4,Oui
+SEN-1562,1,Mensuel,34900.0,Wave,3,Oui
+SEN-1563,6,Mensuel,17500.0,Orange Money,5,Oui
+SEN-1564,50,1 an,38800.0,Carte Bdf,0,Non
+SEN-1565,32,2 ans,15400.0,Orange Money,2,Non
+SEN-1566,3,Mensuel,5100.0,Orange Money,3,Oui
+SEN-1567,49,2 ans,20100.0,Prélèvement,1,Non
+SEN-1568,57,1 an,27800.0,Carte Bdf,2,Non
+SEN-1569,15,Mensuel,24100.0,Orange Money,4,Oui
+SEN-1570,71,2 ans,39500.0,Orange Money,1,Non
+SEN-1571,68,1 an,9200.0,Orange Money,0,Non
+SEN-1572,8,1 an,27200.0,Wave,4,Oui
+SEN-1573,31,Mensuel,25500.0,Orange Money,0,Non
+SEN-1574,28,1 an,16300.0,Prélèvement,0,Non
+SEN-1575,8,Mensuel,37900.0,Carte Bdf,3,Oui
+SEN-1576,18,1 an,35100.0,Carte Bdf,2,Non
+SEN-1577,15,1 an,34300.0,Orange Money,0,Non
+SEN-1578,40,1 an,40000.0,Orange Money,0,Non
+SEN-1579,3,Mensuel,33900.0,Orange Money,3,Oui
+SEN-1580,14,Mensuel,14300.0,Carte Bdf,2,Non
+SEN-1581,35,Mensuel,33200.0,Carte Bdf,0,Non
+SEN-1582,14,Mensuel,17300.0,Wave,5,Oui
+SEN-1583,15,Mensuel,14700.0,Prélèvement,5,Oui
+SEN-1584,14,Mensuel,7900.0,Wave,4,Oui
+SEN-1585,66,1 an,34800.0,Prélèvement,1,Non
+SEN-1586,17,Mensuel,33400.0,Wave,5,Oui
+SEN-1587,12,Mensuel,14400.0,Carte Bdf,4,Oui
+SEN-1588,67,Mensuel,35000.0,Wave,0,Non
+SEN-1589,35,2 ans,41700.0,Prélèvement,0,Non
+SEN-1590,45,2 ans,9300.0,Orange Money,0,Non
+SEN-1591,16,Mensuel,14300.0,Prélèvement,4,Oui
+SEN-1592,2,Mensuel,35000.0,Orange Money,5,Oui
+SEN-1593,8,Mensuel,16000.0,Carte Bdf,3,Oui
+SEN-1594,11,1 an,30000.0,Prélèvement,2,Oui
+SEN-1595,71,2 ans,8200.0,Wave,1,Non
+SEN-1596,71,1 an,23100.0,Prélèvement,2,Non
+SEN-1597,8,Mensuel,34600.0,Orange Money,3,Oui
+SEN-1598,14,Mensuel,32500.0,Carte Bdf,5,Oui
+SEN-1599,15,Mensuel,37600.0,Wave,2,Oui
+SEN-1600,30,Mensuel,40100.0,Prélèvement,1,Non
+SEN-1601,33,1 an,35900.0,Orange Money,0,Non
+SEN-1602,35,2 ans,31900.0,Wave,0,Non
+SEN-1603,56,2 ans,6300.0,Carte Bdf,1,Non
+SEN-1604,6,Mensuel,26400.0,Wave,3,Oui
+SEN-1605,9,Mensuel,6500.0,Carte Bdf,3,Oui
+SEN-1606,69,2 ans,37300.0,Wave,1,Non
+SEN-1607,49,Mensuel,17800.0,Prélèvement,0,Non
+SEN-1608,9,Mensuel,27500.0,Orange Money,3,Oui
+SEN-1609,17,Mensuel,16200.0,Prélèvement,4,Oui
+SEN-1610,47,2 ans,36300.0,Prélèvement,2,Non
+SEN-1611,30,2 ans,40500.0,Carte Bdf,1,Non
+SEN-1612,15,Mensuel,20900.0,Carte Bdf,2,Oui
+SEN-1613,16,Mensuel,39500.0,Carte Bdf,2,Oui
+SEN-1614,1,Mensuel,15700.0,Prélèvement,4,Oui
+SEN-1615,10,1 an,26400.0,Wave,3,Oui
+SEN-1616,8,1 an,39400.0,Wave,4,Oui
+SEN-1617,1,Mensuel,18000.0,Prélèvement,3,Oui
+SEN-1618,2,1 an,43200.0,Prélèvement,4,Oui
+SEN-1619,44,1 an,9900.0,Orange Money,0,Non
+SEN-1620,1,Mensuel,5700.0,Carte Bdf,5,Oui
+SEN-1621,63,1 an,41200.0,Carte Bdf,2,Non
+SEN-1622,13,Mensuel,7700.0,Prélèvement,5,Oui
+SEN-1623,70,2 ans,44700.0,Prélèvement,0,Non
+SEN-1624,39,1 an,43100.0,Wave,1,Non
+SEN-1625,7,Mensuel,10500.0,Prélèvement,4,Oui
+SEN-1626,58,1 an,26500.0,Wave,0,Non
+SEN-1627,6,Mensuel,12400.0,Prélèvement,5,Oui
+SEN-1628,7,Mensuel,22100.0,Orange Money,3,Oui
+SEN-1629,14,1 an,7500.0,Orange Money,5,Oui
+SEN-1630,15,Mensuel,14000.0,Wave,4,Oui
+SEN-1631,56,2 ans,19500.0,Carte Bdf,0,Non
+SEN-1632,44,Mensuel,22500.0,Orange Money,2,Non
+SEN-1633,12,Mensuel,44100.0,Wave,5,Oui
+SEN-1634,17,Mensuel,37300.0,Prélèvement,3,Oui
+SEN-1635,15,Mensuel,34500.0,Prélèvement,2,Non
+SEN-1636,31,1 an,26500.0,Wave,1,Non
+SEN-1637,3,1 an,38600.0,Carte Bdf,3,Oui
+SEN-1638,58,2 ans,18600.0,Wave,1,Non
+SEN-1639,9,Mensuel,33400.0,Wave,3,Oui
+SEN-1640,26,2 ans,44800.0,Orange Money,1,Non
+SEN-1641,17,2 ans,17600.0,Wave,0,Non
+SEN-1642,58,2 ans,32000.0,Wave,2,Non
+SEN-1643,9,Mensuel,38800.0,Prélèvement,4,Oui
+SEN-1644,71,2 ans,41600.0,Orange Money,0,Non
+SEN-1645,22,2 ans,33700.0,Prélèvement,0,Non
+SEN-1646,8,Mensuel,16300.0,Prélèvement,4,Oui
+SEN-1647,15,Mensuel,18100.0,Carte Bdf,2,Oui
+SEN-1648,7,Mensuel,5800.0,Carte Bdf,3,Oui
+SEN-1649,11,Mensuel,35400.0,Orange Money,5,Oui
+SEN-1650,16,2 ans,6700.0,Orange Money,1,Non
+SEN-1651,4,1 an,39600.0,Carte Bdf,2,Oui
+SEN-1652,6,1 an,9700.0,Carte Bdf,4,Oui
+SEN-1653,3,Mensuel,11900.0,Carte Bdf,3,Oui
+SEN-1654,9,1 an,24100.0,Carte Bdf,3,Oui
+SEN-1655,10,Mensuel,34500.0,Carte Bdf,2,Oui
+SEN-1656,14,Mensuel,10600.0,Prélèvement,4,Oui
+SEN-1657,11,Mensuel,22600.0,Orange Money,5,Oui
+SEN-1658,60,1 an,24300.0,Prélèvement,2,Non
+SEN-1659,12,Mensuel,13500.0,Prélèvement,4,Oui
+SEN-1660,65,1 an,9600.0,Wave,0,Non
+SEN-1661,13,Mensuel,38500.0,Prélèvement,4,Oui
+SEN-1662,14,1 an,25100.0,Carte Bdf,2,Oui
+SEN-1663,4,Mensuel,5600.0,Carte Bdf,3,Oui
+SEN-1664,70,2 ans,37100.0,Wave,0,Non
+SEN-1665,56,Mensuel,44200.0,Wave,0,Non
+SEN-1666,12,Mensuel,29200.0,Wave,4,Oui
+SEN-1667,64,2 ans,25100.0,Wave,2,Non
+SEN-1668,30,Mensuel,40100.0,Wave,0,Non
+SEN-1669,53,Mensuel,43100.0,Prélèvement,0,Non
+SEN-1670,3,Mensuel,35200.0,Wave,2,Oui
+SEN-1671,10,Mensuel,22800.0,Prélèvement,2,Oui
+SEN-1672,3,Mensuel,28700.0,Orange Money,3,Oui
+SEN-1673,15,Mensuel,33000.0,Wave,2,Oui
+SEN-1674,16,2 ans,12800.0,Wave,1,Non
+SEN-1675,40,1 an,22900.0,Prélèvement,2,Non
+SEN-1676,48,Mensuel,38200.0,Orange Money,2,Non
+SEN-1677,31,Mensuel,31200.0,Prélèvement,2,Non
+SEN-1678,5,Mensuel,21400.0,Prélèvement,5,Oui
+SEN-1679,32,2 ans,31500.0,Wave,1,Non
+SEN-1680,12,Mensuel,9700.0,Carte Bdf,2,Oui
+SEN-1681,17,1 an,21100.0,Carte Bdf,3,Oui
+SEN-1682,9,1 an,36700.0,Prélèvement,5,Oui
+SEN-1683,17,Mensuel,13800.0,Wave,1,Non
+SEN-1684,2,Mensuel,12400.0,Orange Money,2,Oui
+SEN-1685,15,Mensuel,43000.0,Carte Bdf,1,Non
+SEN-1686,50,1 an,13400.0,Orange Money,1,Non
+SEN-1687,15,Mensuel,15400.0,Carte Bdf,5,Oui
+SEN-1688,61,2 ans,43800.0,Wave,0,Non
+SEN-1689,46,1 an,34400.0,Prélèvement,0,Non
+SEN-1690,6,Mensuel,33000.0,Orange Money,2,Oui
+SEN-1691,7,Mensuel,39100.0,Orange Money,2,Oui
+SEN-1692,10,Mensuel,9600.0,Prélèvement,4,Oui
+SEN-1693,12,1 an,33200.0,Orange Money,2,Oui
+SEN-1694,3,Mensuel,25100.0,Carte Bdf,2,Oui
+SEN-1695,52,2 ans,38200.0,Prélèvement,0,Non
+SEN-1696,8,Mensuel,25300.0,Carte Bdf,2,Oui
+SEN-1697,57,1 an,29800.0,Carte Bdf,1,Non
+SEN-1698,71,1 an,24100.0,Wave,2,Non
+SEN-1699,55,2 ans,24100.0,Carte Bdf,1,Non
+SEN-1700,8,1 an,35700.0,Wave,5,Oui
+SEN-1701,4,Mensuel,30100.0,Orange Money,2,Oui
+SEN-1702,16,Mensuel,30300.0,Orange Money,2,Oui
+SEN-1703,10,Mensuel,23000.0,Wave,4,Oui
+SEN-1704,12,Mensuel,26200.0,Carte Bdf,4,Oui
+SEN-1705,36,2 ans,34800.0,Prélèvement,1,Non
+SEN-1706,47,Mensuel,38000.0,Prélèvement,1,Non
+SEN-1707,32,1 an,32900.0,Wave,2,Non
+SEN-1708,5,Mensuel,42000.0,Orange Money,3,Oui
+SEN-1709,5,Mensuel,37800.0,Orange Money,3,Oui
+SEN-1710,6,Mensuel,27500.0,Prélèvement,4,Oui
+SEN-1711,13,Mensuel,31900.0,Wave,2,Oui
+SEN-1712,41,2 ans,42100.0,Prélèvement,0,Non
+SEN-1713,33,1 an,29800.0,Carte Bdf,1,Non
+SEN-1714,39,1 an,38000.0,Carte Bdf,0,Non
+SEN-1715,18,1 an,32600.0,Wave,1,Non
+SEN-1716,46,1 an,27100.0,Wave,0,Non
+SEN-1717,7,1 an,14700.0,Carte Bdf,2,Oui
+SEN-1718,6,Mensuel,22000.0,Orange Money,5,Oui
+SEN-1719,25,Mensuel,43700.0,Wave,0,Non
+SEN-1720,2,Mensuel,31300.0,Carte Bdf,2,Oui
+SEN-1721,21,Mensuel,27600.0,Carte Bdf,1,Non
+SEN-1722,5,1 an,42300.0,Orange Money,5,Oui
+SEN-1723,27,1 an,28500.0,Orange Money,1,Non
+SEN-1724,65,2 ans,26000.0,Orange Money,2,Non
+SEN-1725,42,Mensuel,35400.0,Orange Money,2,Non
+SEN-1726,53,1 an,33500.0,Prélèvement,2,Non
+SEN-1727,36,2 ans,12700.0,Orange Money,2,Non
+SEN-1728,24,1 an,23900.0,Prélèvement,1,Non
+SEN-1729,17,1 an,23900.0,Wave,2,Non
+SEN-1730,55,2 ans,20100.0,Carte Bdf,2,Non
+SEN-1731,20,Mensuel,25700.0,Prélèvement,2,Non
+SEN-1732,3,1 an,21500.0,Wave,5,Oui
+SEN-1733,14,Mensuel,13000.0,Wave,5,Oui
+SEN-1734,16,Mensuel,21500.0,Prélèvement,2,Oui
+SEN-1735,10,Mensuel,7900.0,Wave,2,Oui
+SEN-1736,10,Mensuel,28000.0,Wave,3,Oui
+SEN-1737,29,1 an,39100.0,Prélèvement,0,Non
+SEN-1738,9,Mensuel,34000.0,Wave,2,Oui
+SEN-1739,54,2 ans,19400.0,Orange Money,1,Non
+SEN-1740,5,Mensuel,8500.0,Orange Money,5,Oui
+SEN-1741,8,Mensuel,13100.0,Carte Bdf,5,Oui
+SEN-1742,11,Mensuel,26800.0,Wave,3,Oui
+SEN-1743,12,Mensuel,13300.0,Carte Bdf,5,Oui
+SEN-1744,44,Mensuel,26800.0,Orange Money,0,Non
+SEN-1745,11,1 an,14300.0,Orange Money,4,Oui
+SEN-1746,5,Mensuel,39000.0,Orange Money,5,Oui
+SEN-1747,15,Mensuel,20900.0,Wave,2,Oui
+SEN-1748,5,Mensuel,14800.0,Wave,5,Oui
+SEN-1749,12,Mensuel,37500.0,Orange Money,3,Oui
+SEN-1750,5,Mensuel,18700.0,Carte Bdf,4,Oui
+SEN-1751,17,Mensuel,9500.0,Carte Bdf,5,Oui
+SEN-1752,17,Mensuel,27800.0,Prélèvement,3,Oui
+SEN-1753,31,1 an,28300.0,Orange Money,0,Non
+SEN-1754,15,Mensuel,33600.0,Carte Bdf,5,Oui
+SEN-1755,15,Mensuel,14600.0,Orange Money,4,Oui
+SEN-1756,59,2 ans,22800.0,Carte Bdf,1,Non
+SEN-1757,12,1 an,16300.0,Prélèvement,3,Oui
+SEN-1758,32,2 ans,8200.0,Prélèvement,2,Non
+SEN-1759,53,2 ans,40100.0,Orange Money,1,Non
+SEN-1760,37,2 ans,34200.0,Carte Bdf,0,Non
+SEN-1761,5,Mensuel,17100.0,Wave,4,Oui
+SEN-1762,67,1 an,29000.0,Prélèvement,2,Non
+SEN-1763,3,Mensuel,13100.0,Orange Money,3,Oui
+SEN-1764,6,Mensuel,40600.0,Orange Money,5,Oui
+SEN-1765,5,Mensuel,9600.0,Carte Bdf,2,Oui
+SEN-1766,69,1 an,5200.0,Orange Money,1,Non
+SEN-1767,1,Mensuel,25100.0,Prélèvement,5,Oui
+SEN-1768,17,Mensuel,28300.0,Orange Money,3,Oui
+SEN-1769,16,2 ans,28200.0,Orange Money,1,Non
+SEN-1770,12,Mensuel,7200.0,Wave,3,Oui
+SEN-1771,10,Mensuel,17600.0,Wave,4,Oui
+SEN-1772,37,2 ans,25000.0,Prélèvement,0,Non
+SEN-1773,2,Mensuel,13700.0,Carte Bdf,3,Oui
+SEN-1774,35,1 an,39900.0,Wave,2,Non
+SEN-1775,15,Mensuel,8500.0,Carte Bdf,5,Oui
+SEN-1776,11,Mensuel,24500.0,Prélèvement,4,Oui
+SEN-1777,62,Mensuel,32700.0,Wave,0,Non
+SEN-1778,36,Mensuel,15500.0,Carte Bdf,1,Non
+SEN-1779,13,Mensuel,30000.0,Wave,5,Oui
+SEN-1780,16,Mensuel,38200.0,Prélèvement,3,Oui
+SEN-1781,10,Mensuel,12600.0,Prélèvement,3,Oui
+SEN-1782,52,2 ans,41700.0,Wave,1,Non
+SEN-1783,44,2 ans,27100.0,Carte Bdf,0,Non
+SEN-1784,61,Mensuel,17000.0,Orange Money,0,Non
+SEN-1785,64,1 an,22200.0,Orange Money,2,Non
+SEN-1786,5,Mensuel,17500.0,Wave,4,Oui
+SEN-1787,15,Mensuel,34000.0,Carte Bdf,2,Oui
+SEN-1788,68,2 ans,36900.0,Orange Money,2,Non
+SEN-1789,18,2 ans,38300.0,Prélèvement,0,Non
+SEN-1790,1,Mensuel,44400.0,Carte Bdf,2,Oui
+SEN-1791,11,Mensuel,36700.0,Orange Money,2,Oui
+SEN-1792,10,Mensuel,29100.0,Carte Bdf,4,Oui
+SEN-1793,17,Mensuel,18600.0,Wave,2,Oui
+SEN-1794,8,Mensuel,26800.0,Carte Bdf,4,Oui
+SEN-1795,15,1 an,6600.0,Orange Money,2,Oui
+SEN-1796,8,Mensuel,34800.0,Wave,3,Oui
+SEN-1797,17,Mensuel,22800.0,Carte Bdf,3,Oui
+SEN-1798,12,Mensuel,5800.0,Prélèvement,2,Oui
+SEN-1799,8,Mensuel,7500.0,Orange Money,5,Oui
+SEN-1800,14,Mensuel,20500.0,Wave,3,Oui
+SEN-1801,4,Mensuel,28300.0,Carte Bdf,4,Oui
+SEN-1802,1,Mensuel,23600.0,Prélèvement,2,Oui
+SEN-1803,1,1 an,29800.0,Orange Money,4,Oui
+SEN-1804,45,2 ans,24200.0,Prélèvement,1,Non
+SEN-1805,17,1 an,31500.0,Carte Bdf,1,Non
+SEN-1806,16,Mensuel,13800.0,Carte Bdf,3,Oui
+SEN-1807,17,Mensuel,9500.0,Wave,1,Non
+SEN-1808,9,Mensuel,28900.0,Prélèvement,3,Oui
+SEN-1809,12,2 ans,24400.0,Wave,0,Non
+SEN-1810,6,Mensuel,6100.0,Orange Money,2,Oui
+SEN-1811,32,2 ans,20200.0,Wave,1,Non
+SEN-1812,1,Mensuel,9200.0,Orange Money,5,Oui
+SEN-1813,9,Mensuel,26300.0,Carte Bdf,3,Oui
+SEN-1814,16,Mensuel,20800.0,Carte Bdf,2,Oui
+SEN-1815,13,Mensuel,29500.0,Prélèvement,2,Oui
+SEN-1816,9,Mensuel,37200.0,Orange Money,5,Oui
+SEN-1817,13,Mensuel,17000.0,Carte Bdf,2,Oui
+SEN-1818,21,Mensuel,43500.0,Prélèvement,2,Non
+SEN-1819,11,Mensuel,26400.0,Prélèvement,2,Oui
+SEN-1820,27,1 an,29700.0,Wave,1,Non
+SEN-1821,2,Mensuel,32200.0,Prélèvement,4,Oui
+SEN-1822,6,Mensuel,31700.0,Carte Bdf,3,Oui
+SEN-1823,14,Mensuel,25400.0,Wave,4,Oui
+SEN-1824,33,Mensuel,22200.0,Orange Money,0,Non
+SEN-1825,6,Mensuel,7200.0,Orange Money,2,Oui
+SEN-1826,6,Mensuel,5900.0,Carte Bdf,3,Oui
+SEN-1827,58,Mensuel,19300.0,Carte Bdf,2,Non
+SEN-1828,51,1 an,18300.0,Wave,0,Non
+SEN-1829,9,Mensuel,20500.0,Wave,5,Oui
+SEN-1830,71,1 an,10500.0,Carte Bdf,0,Non
+SEN-1831,11,Mensuel,34500.0,Carte Bdf,3,Oui
+SEN-1832,1,Mensuel,39300.0,Orange Money,5,Oui
+SEN-1833,46,Mensuel,42500.0,Orange Money,1,Non
+SEN-1834,62,Mensuel,24700.0,Orange Money,2,Non
+SEN-1835,1,Mensuel,33000.0,Carte Bdf,4,Oui
+SEN-1836,12,Mensuel,39200.0,Prélèvement,5,Oui
+SEN-1837,7,1 an,21700.0,Carte Bdf,3,Oui
+SEN-1838,15,Mensuel,17400.0,Carte Bdf,2,Oui
+SEN-1839,1,1 an,42500.0,Orange Money,2,Oui
+SEN-1840,17,Mensuel,25600.0,Carte Bdf,3,Oui
+SEN-1841,17,1 an,24900.0,Wave,4,Oui
+SEN-1842,3,Mensuel,12100.0,Carte Bdf,2,Oui
+SEN-1843,63,1 an,9300.0,Carte Bdf,0,Non
+SEN-1844,6,Mensuel,38700.0,Carte Bdf,4,Oui
+SEN-1845,11,Mensuel,29600.0,Carte Bdf,5,Oui
+SEN-1846,3,Mensuel,18000.0,Prélèvement,4,Oui
+SEN-1847,51,1 an,12700.0,Carte Bdf,2,Non
+SEN-1848,14,Mensuel,27200.0,Wave,5,Oui
+SEN-1849,26,2 ans,28400.0,Wave,0,Non
+SEN-1850,33,1 an,13300.0,Carte Bdf,0,Non
+SEN-1851,2,1 an,39100.0,Orange Money,5,Oui
+SEN-1852,14,1 an,8400.0,Prélèvement,4,Oui
+SEN-1853,25,1 an,19200.0,Carte Bdf,1,Non
+SEN-1854,38,Mensuel,32200.0,Carte Bdf,1,Non
+SEN-1855,52,Mensuel,16000.0,Carte Bdf,0,Non
+SEN-1856,16,Mensuel,38100.0,Orange Money,4,Oui
+SEN-1857,69,1 an,34600.0,Orange Money,0,Non
+SEN-1858,39,1 an,36600.0,Orange Money,1,Non
+SEN-1859,12,Mensuel,9800.0,Prélèvement,2,Oui
+SEN-1860,60,1 an,10600.0,Wave,2,Non
+SEN-1861,13,2 ans,16500.0,Prélèvement,1,Non
+SEN-1862,36,1 an,25700.0,Orange Money,2,Non
+SEN-1863,5,1 an,34900.0,Wave,5,Oui
+SEN-1864,14,1 an,38500.0,Wave,1,Non
+SEN-1865,12,Mensuel,33200.0,Orange Money,5,Oui
+SEN-1866,55,Mensuel,42100.0,Orange Money,0,Non
+SEN-1867,44,2 ans,34500.0,Prélèvement,0,Non
+SEN-1868,53,2 ans,17300.0,Orange Money,0,Non
+SEN-1869,63,2 ans,15600.0,Wave,1,Non
+SEN-1870,6,Mensuel,32800.0,Carte Bdf,2,Oui
+SEN-1871,17,1 an,12700.0,Orange Money,2,Non
+SEN-1872,12,Mensuel,8700.0,Orange Money,3,Oui
+SEN-1873,11,1 an,26300.0,Prélèvement,4,Oui
+SEN-1874,13,Mensuel,37900.0,Prélèvement,5,Oui
+SEN-1875,11,Mensuel,9100.0,Orange Money,3,Oui
+SEN-1876,70,Mensuel,36700.0,Wave,0,Non
+SEN-1877,15,Mensuel,37500.0,Wave,2,Oui
+SEN-1878,54,2 ans,24300.0,Carte Bdf,0,Non
+SEN-1879,30,Mensuel,7300.0,Orange Money,2,Non
+SEN-1880,16,1 an,12000.0,Prélèvement,0,Non
+SEN-1881,62,1 an,33300.0,Wave,1,Non
+SEN-1882,22,Mensuel,33500.0,Carte Bdf,0,Non
+SEN-1883,67,Mensuel,40900.0,Orange Money,1,Non
+SEN-1884,2,Mensuel,28300.0,Wave,4,Oui
+SEN-1885,21,2 ans,10000.0,Orange Money,0,Non
+SEN-1886,4,1 an,9900.0,Orange Money,2,Oui
+SEN-1887,35,2 ans,33800.0,Wave,2,Non
+SEN-1888,14,Mensuel,12400.0,Wave,2,Oui
+SEN-1889,39,2 ans,18100.0,Wave,0,Non
+SEN-1890,3,Mensuel,24500.0,Orange Money,3,Oui
+SEN-1891,8,Mensuel,6000.0,Orange Money,3,Oui
+SEN-1892,16,Mensuel,15000.0,Carte Bdf,4,Oui
+SEN-1893,32,2 ans,21300.0,Prélèvement,1,Non
+SEN-1894,4,Mensuel,16200.0,Orange Money,4,Oui
+SEN-1895,66,2 ans,10500.0,Prélèvement,2,Non
+SEN-1896,17,Mensuel,34100.0,Wave,4,Oui
+SEN-1897,58,1 an,37500.0,Orange Money,2,Non
+SEN-1898,26,1 an,15300.0,Carte Bdf,0,Non
+SEN-1899,11,Mensuel,36000.0,Carte Bdf,4,Oui
+SEN-1900,7,Mensuel,20400.0,Prélèvement,2,Oui
+SEN-1901,12,Mensuel,25300.0,Wave,3,Oui
+SEN-1902,29,1 an,39200.0,Prélèvement,2,Non
+SEN-1903,53,1 an,35000.0,Wave,1,Non
+SEN-1904,71,1 an,37200.0,Carte Bdf,2,Non
+SEN-1905,7,1 an,10500.0,Prélèvement,5,Oui
+SEN-1906,17,Mensuel,7800.0,Carte Bdf,5,Oui
+SEN-1907,23,2 ans,40700.0,Carte Bdf,0,Non
+SEN-1908,10,Mensuel,20500.0,Wave,3,Oui
+SEN-1909,18,2 ans,16500.0,Prélèvement,2,Non
+SEN-1910,4,Mensuel,34000.0,Prélèvement,5,Oui
+SEN-1911,7,Mensuel,38500.0,Carte Bdf,2,Oui
+SEN-1912,56,Mensuel,39500.0,Carte Bdf,2,Non
+SEN-1913,12,Mensuel,17600.0,Wave,3,Oui
+SEN-1914,38,Mensuel,39100.0,Orange Money,0,Non
+SEN-1915,61,2 ans,6600.0,Orange Money,1,Non
+SEN-1916,15,Mensuel,7000.0,Carte Bdf,4,Oui
+SEN-1917,13,Mensuel,29900.0,Orange Money,5,Oui
+SEN-1918,9,Mensuel,7500.0,Orange Money,5,Oui
+SEN-1919,44,2 ans,18000.0,Orange Money,0,Non
+SEN-1920,39,2 ans,31900.0,Orange Money,2,Non
+SEN-1921,12,Mensuel,18500.0,Carte Bdf,1,Non
+SEN-1922,10,Mensuel,12200.0,Orange Money,2,Oui
+SEN-1923,8,Mensuel,16300.0,Orange Money,3,Oui
+SEN-1924,48,Mensuel,23300.0,Wave,1,Non
+SEN-1925,43,Mensuel,24000.0,Carte Bdf,2,Non
+SEN-1926,71,1 an,36300.0,Prélèvement,1,Non
+SEN-1927,59,2 ans,35000.0,Prélèvement,1,Non
+SEN-1928,54,1 an,23300.0,Wave,0,Non
+SEN-1929,7,Mensuel,38800.0,Wave,5,Oui
+SEN-1930,10,Mensuel,9600.0,Carte Bdf,3,Oui
+SEN-1931,41,1 an,15200.0,Prélèvement,1,Non
+SEN-1932,10,Mensuel,38100.0,Orange Money,3,Oui
+SEN-1933,57,1 an,20100.0,Wave,1,Non
+SEN-1934,65,Mensuel,44200.0,Prélèvement,2,Non
+SEN-1935,30,2 ans,23700.0,Carte Bdf,1,Non
+SEN-1936,17,Mensuel,36700.0,Orange Money,5,Oui
+SEN-1937,20,2 ans,21100.0,Carte Bdf,2,Non
+SEN-1938,23,Mensuel,22000.0,Wave,0,Non
+SEN-1939,22,1 an,20300.0,Prélèvement,0,Non
+SEN-1940,1,Mensuel,33800.0,Prélèvement,4,Oui
+SEN-1941,17,Mensuel,26900.0,Prélèvement,4,Oui
+SEN-1942,16,Mensuel,42800.0,Prélèvement,2,Oui
+SEN-1943,5,Mensuel,15000.0,Orange Money,5,Oui
+SEN-1944,56,2 ans,9000.0,Orange Money,0,Non
+SEN-1945,3,Mensuel,20700.0,Carte Bdf,5,Oui
+SEN-1946,7,Mensuel,29700.0,Orange Money,3,Oui
+SEN-1947,11,1 an,39400.0,Wave,4,Oui
+SEN-1948,41,2 ans,18800.0,Wave,1,Non
+SEN-1949,9,Mensuel,31200.0,Prélèvement,5,Oui
+SEN-1950,14,1 an,19000.0,Wave,4,Oui
+SEN-1951,13,Mensuel,29700.0,Carte Bdf,4,Oui
+SEN-1952,2,Mensuel,40400.0,Orange Money,4,Oui
+SEN-1953,49,1 an,14300.0,Orange Money,0,Non
+SEN-1954,7,1 an,21200.0,Orange Money,2,Oui
+SEN-1955,3,Mensuel,44700.0,Wave,4,Oui
+SEN-1956,70,Mensuel,39700.0,Orange Money,0,Non
+SEN-1957,7,Mensuel,27600.0,Prélèvement,3,Oui
+SEN-1958,9,Mensuel,25700.0,Prélèvement,4,Oui
+SEN-1959,16,1 an,16400.0,Prélèvement,2,Non
+SEN-1960,36,2 ans,25700.0,Wave,2,Non
+SEN-1961,7,Mensuel,38900.0,Orange Money,3,Oui
+SEN-1962,14,Mensuel,32400.0,Wave,5,Oui
+SEN-1963,4,1 an,16600.0,Orange Money,4,Oui
+SEN-1964,36,Mensuel,13100.0,Carte Bdf,0,Non
+SEN-1965,31,2 ans,15600.0,Carte Bdf,1,Non
+SEN-1966,45,2 ans,11800.0,Wave,0,Non
+SEN-1967,37,2 ans,8800.0,Prélèvement,1,Non
+SEN-1968,16,2 ans,21800.0,Wave,2,Non
+SEN-1969,46,2 ans,9500.0,Prélèvement,1,Non
+SEN-1970,8,Mensuel,11900.0,Orange Money,4,Oui
+SEN-1971,40,1 an,26900.0,Prélèvement,0,Non
+SEN-1972,20,2 ans,11600.0,Prélèvement,2,Non
+SEN-1973,4,Mensuel,7600.0,Orange Money,4,Oui
+SEN-1974,49,1 an,17700.0,Carte Bdf,0,Non
+SEN-1975,61,1 an,13800.0,Orange Money,2,Non
+SEN-1976,17,2 ans,25600.0,Wave,0,Non
+SEN-1977,1,Mensuel,9100.0,Wave,4,Oui
+SEN-1978,71,2 ans,35100.0,Wave,0,Non
+SEN-1979,9,Mensuel,41200.0,Wave,2,Oui
+SEN-1980,68,Mensuel,34700.0,Wave,2,Non
+SEN-1981,4,Mensuel,26300.0,Carte Bdf,2,Oui
+SEN-1982,13,Mensuel,39400.0,Carte Bdf,3,Oui
+SEN-1983,58,2 ans,32800.0,Prélèvement,1,Non
+SEN-1984,55,2 ans,5400.0,Wave,1,Non
+SEN-1985,55,2 ans,20800.0,Orange Money,2,Non
+SEN-1986,20,Mensuel,39000.0,Wave,0,Non
+SEN-1987,32,Mensuel,18800.0,Carte Bdf,2,Non
+SEN-1988,35,2 ans,6400.0,Wave,0,Non
+SEN-1989,45,2 ans,34800.0,Carte Bdf,1,Non
+SEN-1990,33,1 an,37100.0,Prélèvement,0,Non
+SEN-1991,12,1 an,11400.0,Prélèvement,4,Oui
+SEN-1992,23,1 an,26500.0,Prélèvement,1,Non
+SEN-1993,6,1 an,12700.0,Carte Bdf,4,Oui
+SEN-1994,41,2 ans,33800.0,Wave,0,Non
+SEN-1995,37,1 an,15900.0,Wave,2,Non
+SEN-1996,59,1 an,17600.0,Orange Money,0,Non
+SEN-1997,6,1 an,38800.0,Carte Bdf,2,Oui
+SEN-1998,39,Mensuel,24100.0,Orange Money,2,Non
+SEN-1999,67,1 an,31800.0,Prélèvement,1,Non
